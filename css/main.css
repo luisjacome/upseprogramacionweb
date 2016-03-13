@@ -108,6 +108,7 @@ nav{
         padding: 15px 10px;
         }
  
+
 /***footer*/
   footer{ 
         font-size: 0.75em;
@@ -118,3 +119,8 @@ nav{
          
         }
 
+.social-icon { 
+        width: 30px;
+        height: 30px;
+        margin: 0.5px;
+        }
