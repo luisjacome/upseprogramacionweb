@@ -13,9 +13,6 @@ a {
 }
 
 
-
-
-
 /***galeria*/
 #galeria { margin: 0;                 
            padding: 0;   
@@ -124,3 +121,14 @@ nav{
         height: 30px;
         margin: 0.5px;
         }
+
+
+/**about para la pagina acerca*/
+.profile-photo {
+         display: block;
+         max-width: 550px;
+         margin: 0 auto 30opx;
+         border-radius: 100%;
+
+}
+
