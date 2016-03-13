@@ -1,0 +1,61 @@
+/* general**/
+
+
+a {
+    text-decoration: none;
+    color: #6ab47b;
+}
+#wrapper{
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+	
+}
+
+
+
+#logo{      text-align: center;
+             margin:0;    
+     }
+        
+
+/**Header***/
+
+header{ background: #6ab47b;
+      border-color:#599a68;
+      }
+         
+/**fuente de h1**/
+h1 { 
+  font-family:'PT Sans', sans-serif;  /**tipo de fuente**/
+  margin: 20px 0;                     /**margen de fuente*/
+  font-size: 1.75em;                  /**tamaño  de fuente**/
+  font-weight: normal;                /* peso de letra**/
+  line-height: 0.8em;
+}
+h2 { 
+  font-family:'PT Sans', sans-serif; 
+  margin: 20px 0;                     
+  font-size: 1.75em;                 
+  font-weight: normal;                
+  line-height: 0.8em;
+}
+/*logo (centrado del logo)*/   
+          h1,h2{
+          	color: #303D74;
+          }
+
+/*Navigation*/
+nav{
+          	background: #6db69c;
+          }
+          nav a, nav a:visited{
+          	color: #fff;
+          }
+
+          nav a.selected {  /****cambio de c olores para galeria***/
+            color: #303D74;
+          }
+          nav a:hover {     /**da estilo al pasar el mouse sobre un link de galeria*/
+             color: #32673f;
+          }
